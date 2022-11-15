@@ -8,3 +8,4 @@ scp # for Cisco ios
 selectors2 # for ncclient
 ncclient # for Junos
 jxmlease # for Junos
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
