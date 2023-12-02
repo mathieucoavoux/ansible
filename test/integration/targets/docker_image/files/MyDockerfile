@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.18.5
 ENV INSTALL_PATH /newdata
 RUN mkdir -p $INSTALL_PATH
 
